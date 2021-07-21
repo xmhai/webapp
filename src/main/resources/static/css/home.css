@@ -1,0 +1,18 @@
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.starter-template {
+	padding: 3rem 1.5rem;
+	text-align: center;
+}
+
+.logo {
+  margin-bottom: 0px!important;
+  margin-right: 10px!important;
+}
