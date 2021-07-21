@@ -12,7 +12,13 @@ html {
 	text-align: center;
 }
 
+#content {
+	padding: 5rem 1.5rem;
+	text-align: center;
+}
+
 .logo {
   margin-bottom: 0px!important;
   margin-right: 10px!important;
 }
+
